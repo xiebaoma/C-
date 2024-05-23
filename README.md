@@ -3,10 +3,6 @@
 编写环境：Visual  Studio
 
 整个程序共有七个类,分别为Tools, Point, StartInterface, Snake, Map, Food。
-（1）先体验一下程序：
-	解压 -> x64 -> Debug -> greedsnake.exe
-
-（2）代码阅读顺序：
 
 	解压后点击 greedsnake.sln 就可以阅读和编辑代码。
 	每个类都有一个.h文件和一个.cpp文件,建议先看.h,再看.cpp。
@@ -20,4 +16,3 @@
 	6,startinterface,游戏开始界面，包含了入场的动画。
 	6,main.cpp游戏入口。
 	7,Controller类就是控制整个游戏过程的,包括游戏的各个阶段,比如更新分数,游戏难度选择等。
-（3）修改代码
